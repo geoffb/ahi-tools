@@ -1,0 +1,17 @@
+{
+  "name": "ahi-tools",
+  "version": "1.0.0",
+  "bin": {
+    "ahi": "./lib/cli.js"
+  },
+  "dependencies": {
+    "async": "^1.4.2",
+    "browserify": "^11.2.0",
+    "chalk": "^1.1.1",
+    "connect": "^3.4.0",
+    "fs-extra": "^0.24.0",
+    "minimist": "^1.2.0",
+    "serve-static": "^1.10.0",
+    "watchify": "^3.4.0"
+  }
+}
