@@ -1,6 +1,11 @@
 {
   "name": "ahi-tools",
-  "version": "1.0.0",
+  "version": "0.1.0",
+  "description" : "Tools for Ahi (HTML5 game engine)",
+  "keywords": ["html5", "canvas", "game", "engine", "tools", "build"],
+  "author": "Geoff Blair <gmblair@gmail.com>",
+  "license": "ISC",
+  "repository": "geoffb/ahi-tools",
   "bin": {
     "ahi": "./lib/cli.js"
   },
